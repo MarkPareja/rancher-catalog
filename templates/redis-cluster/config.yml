@@ -1,5 +1,0 @@
-name: Redis Cluster
-description: |
-  Redis - Sientinal cluster for rancher
-version: v0.1.0
-category: Database
